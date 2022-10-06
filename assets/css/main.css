@@ -2890,6 +2890,7 @@ input, select, textarea {
 			}
 
 		}
+	
 
 /* Spotlight */
 
@@ -4352,7 +4353,7 @@ input, select, textarea {
 	}
 
 		#main > .inner > header.major:first-child {
-			margin-bottom: 6em;
+			margin-bottom: 2em;
 		}
 
 		@media screen and (max-width: 1280px) {
